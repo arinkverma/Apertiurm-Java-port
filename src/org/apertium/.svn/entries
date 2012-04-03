@@ -1,0 +1,92 @@
+10
+
+dir
+37120
+https://apertium.svn.sourceforge.net/svnroot/apertium/trunk/lttoolbox-java/src/org/apertium
+https://apertium.svn.sourceforge.net/svnroot/apertium
+
+
+
+2012-03-06T04:00:00.688002Z
+36509
+nordfalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+72bbbca6-d526-0410-a7d9-f06f51895060
+
+utils
+dir
+
+charlifter
+dir
+
+formatter
+dir
+
+transfer
+dir
+
+pipeline
+dir
+
+lttoolbox
+dir
+
+CommandLineInterface.java
+file
+
+
+
+
+2012-03-31T20:07:07.960036Z
+47392f770d279f7d33c65aa6bcd7026b
+2010-08-21T09:07:48.097349Z
+24980
+nordfalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4090
+
+tagger
+dir
+
+interchunk
+dir
+
+pretransfer
+dir
+
+postchunk
+dir
+
